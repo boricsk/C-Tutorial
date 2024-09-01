@@ -1,0 +1,15 @@
+D:\doc\learn\C#\Hello Világ Hello C\013 checked es unchecked blokkok\bin\Debug\net8.0\013 checked es unchecked blokkok.exe
+D:\doc\learn\C#\Hello Világ Hello C\013 checked es unchecked blokkok\bin\Debug\net8.0\013 checked es unchecked blokkok.deps.json
+D:\doc\learn\C#\Hello Világ Hello C\013 checked es unchecked blokkok\bin\Debug\net8.0\013 checked es unchecked blokkok.runtimeconfig.json
+D:\doc\learn\C#\Hello Világ Hello C\013 checked es unchecked blokkok\bin\Debug\net8.0\013 checked es unchecked blokkok.dll
+D:\doc\learn\C#\Hello Világ Hello C\013 checked es unchecked blokkok\bin\Debug\net8.0\013 checked es unchecked blokkok.pdb
+D:\doc\learn\C#\Hello Világ Hello C\013 checked es unchecked blokkok\obj\Debug\net8.0\013 checked es unchecked blokkok.GeneratedMSBuildEditorConfig.editorconfig
+D:\doc\learn\C#\Hello Világ Hello C\013 checked es unchecked blokkok\obj\Debug\net8.0\013 checked es unchecked blokkok.AssemblyInfoInputs.cache
+D:\doc\learn\C#\Hello Világ Hello C\013 checked es unchecked blokkok\obj\Debug\net8.0\013 checked es unchecked blokkok.AssemblyInfo.cs
+D:\doc\learn\C#\Hello Világ Hello C\013 checked es unchecked blokkok\obj\Debug\net8.0\013 checked es unchecked blokkok.csproj.CoreCompileInputs.cache
+D:\doc\learn\C#\Hello Világ Hello C\013 checked es unchecked blokkok\obj\Debug\net8.0\013 checked es unchecked blokkok.sourcelink.json
+D:\doc\learn\C#\Hello Világ Hello C\013 checked es unchecked blokkok\obj\Debug\net8.0\013 checked es unchecked blokkok.dll
+D:\doc\learn\C#\Hello Világ Hello C\013 checked es unchecked blokkok\obj\Debug\net8.0\refint\013 checked es unchecked blokkok.dll
+D:\doc\learn\C#\Hello Világ Hello C\013 checked es unchecked blokkok\obj\Debug\net8.0\013 checked es unchecked blokkok.pdb
+D:\doc\learn\C#\Hello Világ Hello C\013 checked es unchecked blokkok\obj\Debug\net8.0\013 checked es unchecked blokkok.genruntimeconfig.cache
+D:\doc\learn\C#\Hello Világ Hello C\013 checked es unchecked blokkok\obj\Debug\net8.0\ref\013 checked es unchecked blokkok.dll

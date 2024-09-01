@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\doc\\learn\\C#\\Hello Vil\u00E1g Hello C\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5652A586-552D-4AA9-98D4-033CBD252BF6}|016 while ciklus\\016 while ciklus.csproj|d:\\doc\\learn\\c#\\hello vil\u00E1g hello c\\016 while ciklus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5652A586-552D-4AA9-98D4-033CBD252BF6}|016 while ciklus\\016 while ciklus.csproj|solutionrelative:016 while ciklus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4683E26-4929-4C3A-81A0-200C8471074A}|015 for ciklus\\015 for ciklus.csproj|d:\\doc\\learn\\c#\\hello vil\u00E1g hello c\\015 for ciklus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4683E26-4929-4C3A-81A0-200C8471074A}|015 for ciklus\\015 for ciklus.csproj|solutionrelative:015 for ciklus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD285EC-E48F-4E83-B59F-8617EC6271E1}|014 goto\\014 goto.csproj|d:\\doc\\learn\\c#\\hello vil\u00E1g hello c\\014 goto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADD285EC-E48F-4E83-B59F-8617EC6271E1}|014 goto\\014 goto.csproj|solutionrelative:014 goto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4676CD44-5DF9-4963-98F2-BBC7429D04BF}|013 checked es unchecked blokkok\\013 checked es unchecked blokkok.csproj|d:\\doc\\learn\\c#\\hello vil\u00E1g hello c\\013 checked es unchecked blokkok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4676CD44-5DF9-4963-98F2-BBC7429D04BF}|013 checked es unchecked blokkok\\013 checked es unchecked blokkok.csproj|solutionrelative:013 checked es unchecked blokkok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -40,18 +52,57 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\doc\\learn\\C#\\Hello Vil\u00E1g Hello C\\016 while ciklus\\Program.cs",
+              "RelativeDocumentMoniker": "016 while ciklus\\Program.cs",
+              "ToolTip": "D:\\doc\\learn\\C#\\Hello Vil\u00E1g Hello C\\016 while ciklus\\Program.cs",
+              "RelativeToolTip": "016 while ciklus\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T13:42:23.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\doc\\learn\\C#\\Hello Vil\u00E1g Hello C\\015 for ciklus\\Program.cs",
+              "RelativeDocumentMoniker": "015 for ciklus\\Program.cs",
+              "ToolTip": "D:\\doc\\learn\\C#\\Hello Vil\u00E1g Hello C\\015 for ciklus\\Program.cs",
+              "RelativeToolTip": "015 for ciklus\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T13:09:49.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\doc\\learn\\C#\\Hello Vil\u00E1g Hello C\\014 goto\\Program.cs",
+              "RelativeDocumentMoniker": "014 goto\\Program.cs",
+              "ToolTip": "D:\\doc\\learn\\C#\\Hello Vil\u00E1g Hello C\\014 goto\\Program.cs",
+              "RelativeToolTip": "014 goto\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T13:03:06.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\doc\\learn\\C#\\Hello Vil\u00E1g Hello C\\013 checked es unchecked blokkok\\Program.cs",
               "RelativeDocumentMoniker": "013 checked es unchecked blokkok\\Program.cs",
               "ToolTip": "D:\\doc\\learn\\C#\\Hello Vil\u00E1g Hello C\\013 checked es unchecked blokkok\\Program.cs",
               "RelativeToolTip": "013 checked es unchecked blokkok\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-01T12:21:28.053Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\doc\\learn\\C#\\Hello Vil\u00E1g Hello C\\012 try catch\\Program.cs",
               "RelativeDocumentMoniker": "012 try catch\\Program.cs",
@@ -59,12 +110,11 @@
               "RelativeToolTip": "012 try catch\\Program.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAAAMUAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T11:35:26.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-01T11:35:26.401Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\doc\\learn\\C#\\Hello Vil\u00E1g Hello C\\011 switch case\\Program.cs",
               "RelativeDocumentMoniker": "011 switch case\\Program.cs",
@@ -72,12 +122,11 @@
               "RelativeToolTip": "011 switch case\\Program.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAcwF8AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T11:27:22.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-01T11:27:22.249Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\doc\\learn\\C#\\Hello Vil\u00E1g Hello C\\010 if else\\Program.cs",
               "RelativeDocumentMoniker": "010 if else\\Program.cs",
@@ -85,12 +134,11 @@
               "RelativeToolTip": "010 if else\\Program.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAxwFIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T08:47:24.261Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-01T08:47:24.261Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\doc\\learn\\C#\\Hello Vil\u00E1g Hello C\\009 Lebegopontos osszehasonlitas\\Program.cs",
               "RelativeDocumentMoniker": "009 Lebegopontos osszehasonlitas\\Program.cs",
@@ -98,12 +146,11 @@
               "RelativeToolTip": "009 Lebegopontos osszehasonlitas\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T08:27:40.39Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-01T08:27:40.39Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\doc\\learn\\C#\\Hello Vil\u00E1g Hello C\\008 Aritmetika\\Program.cs",
               "RelativeDocumentMoniker": "008 Aritmetika\\Program.cs",
@@ -111,8 +158,7 @@
               "RelativeToolTip": "008 Aritmetika\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T08:16:40.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-01T08:16:40.71Z"
             }
           ]
         }

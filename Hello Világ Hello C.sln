@@ -19,15 +19,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "007 Matek", "Matek\007 Mate
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "008 Aritmetika", "008 Aritmetika\008 Aritmetika.csproj", "{750AE74B-2304-478E-A060-4140EEF5EDD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009 Lebegopontos osszehasonlitas", "009 Lebegopontos osszehasonlitas\009 Lebegopontos osszehasonlitas.csproj", "{821A5A67-B303-48DB-B3E4-B4072360EDD2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "009 Lebegopontos osszehasonlitas", "009 Lebegopontos osszehasonlitas\009 Lebegopontos osszehasonlitas.csproj", "{821A5A67-B303-48DB-B3E4-B4072360EDD2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010 if else", "010 if else\010 if else.csproj", "{B0802893-E57F-485A-895F-EC6F17085DBC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "010 if else", "010 if else\010 if else.csproj", "{B0802893-E57F-485A-895F-EC6F17085DBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011 switch case", "011 switch case\011 switch case.csproj", "{6D7B8217-2358-4330-8D9F-1CD970747704}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "011 switch case", "011 switch case\011 switch case.csproj", "{6D7B8217-2358-4330-8D9F-1CD970747704}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012 try catch", "012 try catch\012 try catch.csproj", "{EA408C8A-3220-4A1F-AA2E-59AEDA0203EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "012 try catch", "012 try catch\012 try catch.csproj", "{EA408C8A-3220-4A1F-AA2E-59AEDA0203EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "013 checked es unchecked blokkok", "013 checked es unchecked blokkok\013 checked es unchecked blokkok.csproj", "{4676CD44-5DF9-4963-98F2-BBC7429D04BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "013 checked es unchecked blokkok", "013 checked es unchecked blokkok\013 checked es unchecked blokkok.csproj", "{4676CD44-5DF9-4963-98F2-BBC7429D04BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "014 goto", "014 goto\014 goto.csproj", "{ADD285EC-E48F-4E83-B59F-8617EC6271E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "015 for ciklus", "015 for ciklus\015 for ciklus.csproj", "{E4683E26-4929-4C3A-81A0-200C8471074A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "016 while ciklus", "016 while ciklus\016 while ciklus.csproj", "{5652A586-552D-4AA9-98D4-033CBD252BF6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +93,18 @@ Global
 		{4676CD44-5DF9-4963-98F2-BBC7429D04BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4676CD44-5DF9-4963-98F2-BBC7429D04BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4676CD44-5DF9-4963-98F2-BBC7429D04BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADD285EC-E48F-4E83-B59F-8617EC6271E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADD285EC-E48F-4E83-B59F-8617EC6271E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADD285EC-E48F-4E83-B59F-8617EC6271E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADD285EC-E48F-4E83-B59F-8617EC6271E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4683E26-4929-4C3A-81A0-200C8471074A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4683E26-4929-4C3A-81A0-200C8471074A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4683E26-4929-4C3A-81A0-200C8471074A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4683E26-4929-4C3A-81A0-200C8471074A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5652A586-552D-4AA9-98D4-033CBD252BF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5652A586-552D-4AA9-98D4-033CBD252BF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5652A586-552D-4AA9-98D4-033CBD252BF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5652A586-552D-4AA9-98D4-033CBD252BF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+D:\doc\learn\C#\Hello Világ Hello C\014 goto\bin\Debug\net8.0\014 goto.exe
+D:\doc\learn\C#\Hello Világ Hello C\014 goto\bin\Debug\net8.0\014 goto.deps.json
+D:\doc\learn\C#\Hello Világ Hello C\014 goto\bin\Debug\net8.0\014 goto.runtimeconfig.json
+D:\doc\learn\C#\Hello Világ Hello C\014 goto\bin\Debug\net8.0\014 goto.dll
+D:\doc\learn\C#\Hello Világ Hello C\014 goto\bin\Debug\net8.0\014 goto.pdb
+D:\doc\learn\C#\Hello Világ Hello C\014 goto\obj\Debug\net8.0\014 goto.GeneratedMSBuildEditorConfig.editorconfig
+D:\doc\learn\C#\Hello Világ Hello C\014 goto\obj\Debug\net8.0\014 goto.AssemblyInfoInputs.cache
+D:\doc\learn\C#\Hello Világ Hello C\014 goto\obj\Debug\net8.0\014 goto.AssemblyInfo.cs
+D:\doc\learn\C#\Hello Világ Hello C\014 goto\obj\Debug\net8.0\014 goto.csproj.CoreCompileInputs.cache
+D:\doc\learn\C#\Hello Világ Hello C\014 goto\obj\Debug\net8.0\014 goto.sourcelink.json
+D:\doc\learn\C#\Hello Világ Hello C\014 goto\obj\Debug\net8.0\014 goto.dll
+D:\doc\learn\C#\Hello Világ Hello C\014 goto\obj\Debug\net8.0\refint\014 goto.dll
+D:\doc\learn\C#\Hello Világ Hello C\014 goto\obj\Debug\net8.0\014 goto.pdb
+D:\doc\learn\C#\Hello Világ Hello C\014 goto\obj\Debug\net8.0\014 goto.genruntimeconfig.cache
+D:\doc\learn\C#\Hello Világ Hello C\014 goto\obj\Debug\net8.0\ref\014 goto.dll
