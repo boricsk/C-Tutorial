@@ -1,0 +1,14 @@
+D:\doc\learn\C#\Hello Világ Hello C\012 try catch\bin\Debug\net8.0\012 try catch.exe
+D:\doc\learn\C#\Hello Világ Hello C\012 try catch\bin\Debug\net8.0\012 try catch.deps.json
+D:\doc\learn\C#\Hello Világ Hello C\012 try catch\bin\Debug\net8.0\012 try catch.runtimeconfig.json
+D:\doc\learn\C#\Hello Világ Hello C\012 try catch\bin\Debug\net8.0\012 try catch.dll
+D:\doc\learn\C#\Hello Világ Hello C\012 try catch\bin\Debug\net8.0\012 try catch.pdb
+D:\doc\learn\C#\Hello Világ Hello C\012 try catch\obj\Debug\net8.0\012 try catch.GeneratedMSBuildEditorConfig.editorconfig
+D:\doc\learn\C#\Hello Világ Hello C\012 try catch\obj\Debug\net8.0\012 try catch.AssemblyInfoInputs.cache
+D:\doc\learn\C#\Hello Világ Hello C\012 try catch\obj\Debug\net8.0\012 try catch.AssemblyInfo.cs
+D:\doc\learn\C#\Hello Világ Hello C\012 try catch\obj\Debug\net8.0\012 try catch.csproj.CoreCompileInputs.cache
+D:\doc\learn\C#\Hello Világ Hello C\012 try catch\obj\Debug\net8.0\012 try catch.dll
+D:\doc\learn\C#\Hello Világ Hello C\012 try catch\obj\Debug\net8.0\refint\012 try catch.dll
+D:\doc\learn\C#\Hello Világ Hello C\012 try catch\obj\Debug\net8.0\012 try catch.pdb
+D:\doc\learn\C#\Hello Világ Hello C\012 try catch\obj\Debug\net8.0\012 try catch.genruntimeconfig.cache
+D:\doc\learn\C#\Hello Világ Hello C\012 try catch\obj\Debug\net8.0\ref\012 try catch.dll

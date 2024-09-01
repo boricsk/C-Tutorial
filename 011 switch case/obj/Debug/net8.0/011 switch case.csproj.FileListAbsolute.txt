@@ -1,0 +1,14 @@
+D:\doc\learn\C#\Hello Világ Hello C\011 switch case\bin\Debug\net8.0\011 switch case.exe
+D:\doc\learn\C#\Hello Világ Hello C\011 switch case\bin\Debug\net8.0\011 switch case.deps.json
+D:\doc\learn\C#\Hello Világ Hello C\011 switch case\bin\Debug\net8.0\011 switch case.runtimeconfig.json
+D:\doc\learn\C#\Hello Világ Hello C\011 switch case\bin\Debug\net8.0\011 switch case.dll
+D:\doc\learn\C#\Hello Világ Hello C\011 switch case\bin\Debug\net8.0\011 switch case.pdb
+D:\doc\learn\C#\Hello Világ Hello C\011 switch case\obj\Debug\net8.0\011 switch case.GeneratedMSBuildEditorConfig.editorconfig
+D:\doc\learn\C#\Hello Világ Hello C\011 switch case\obj\Debug\net8.0\011 switch case.AssemblyInfoInputs.cache
+D:\doc\learn\C#\Hello Világ Hello C\011 switch case\obj\Debug\net8.0\011 switch case.AssemblyInfo.cs
+D:\doc\learn\C#\Hello Világ Hello C\011 switch case\obj\Debug\net8.0\011 switch case.csproj.CoreCompileInputs.cache
+D:\doc\learn\C#\Hello Világ Hello C\011 switch case\obj\Debug\net8.0\011 switch case.dll
+D:\doc\learn\C#\Hello Világ Hello C\011 switch case\obj\Debug\net8.0\refint\011 switch case.dll
+D:\doc\learn\C#\Hello Világ Hello C\011 switch case\obj\Debug\net8.0\011 switch case.pdb
+D:\doc\learn\C#\Hello Világ Hello C\011 switch case\obj\Debug\net8.0\011 switch case.genruntimeconfig.cache
+D:\doc\learn\C#\Hello Világ Hello C\011 switch case\obj\Debug\net8.0\ref\011 switch case.dll

@@ -1,0 +1,14 @@
+D:\doc\learn\C#\Hello Világ Hello C\Matek\bin\Debug\net8.0\007 Matek.exe
+D:\doc\learn\C#\Hello Világ Hello C\Matek\bin\Debug\net8.0\007 Matek.deps.json
+D:\doc\learn\C#\Hello Világ Hello C\Matek\bin\Debug\net8.0\007 Matek.runtimeconfig.json
+D:\doc\learn\C#\Hello Világ Hello C\Matek\bin\Debug\net8.0\007 Matek.dll
+D:\doc\learn\C#\Hello Világ Hello C\Matek\bin\Debug\net8.0\007 Matek.pdb
+D:\doc\learn\C#\Hello Világ Hello C\Matek\obj\Debug\net8.0\007 Matek.GeneratedMSBuildEditorConfig.editorconfig
+D:\doc\learn\C#\Hello Világ Hello C\Matek\obj\Debug\net8.0\007 Matek.AssemblyInfoInputs.cache
+D:\doc\learn\C#\Hello Világ Hello C\Matek\obj\Debug\net8.0\007 Matek.AssemblyInfo.cs
+D:\doc\learn\C#\Hello Világ Hello C\Matek\obj\Debug\net8.0\007 Matek.csproj.CoreCompileInputs.cache
+D:\doc\learn\C#\Hello Világ Hello C\Matek\obj\Debug\net8.0\007 Matek.dll
+D:\doc\learn\C#\Hello Világ Hello C\Matek\obj\Debug\net8.0\refint\007 Matek.dll
+D:\doc\learn\C#\Hello Világ Hello C\Matek\obj\Debug\net8.0\007 Matek.pdb
+D:\doc\learn\C#\Hello Világ Hello C\Matek\obj\Debug\net8.0\007 Matek.genruntimeconfig.cache
+D:\doc\learn\C#\Hello Világ Hello C\Matek\obj\Debug\net8.0\ref\007 Matek.dll

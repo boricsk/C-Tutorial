@@ -1,0 +1,14 @@
+D:\doc\learn\C#\Hello Világ Hello C\002 Adatkonvertálás\bin\Debug\net8.0\002 Adatkonvertálás.exe
+D:\doc\learn\C#\Hello Világ Hello C\002 Adatkonvertálás\bin\Debug\net8.0\002 Adatkonvertálás.deps.json
+D:\doc\learn\C#\Hello Világ Hello C\002 Adatkonvertálás\bin\Debug\net8.0\002 Adatkonvertálás.runtimeconfig.json
+D:\doc\learn\C#\Hello Világ Hello C\002 Adatkonvertálás\bin\Debug\net8.0\002 Adatkonvertálás.dll
+D:\doc\learn\C#\Hello Világ Hello C\002 Adatkonvertálás\bin\Debug\net8.0\002 Adatkonvertálás.pdb
+D:\doc\learn\C#\Hello Világ Hello C\002 Adatkonvertálás\obj\Debug\net8.0\002 Adatkonvertálás.GeneratedMSBuildEditorConfig.editorconfig
+D:\doc\learn\C#\Hello Világ Hello C\002 Adatkonvertálás\obj\Debug\net8.0\002 Adatkonvertálás.AssemblyInfoInputs.cache
+D:\doc\learn\C#\Hello Világ Hello C\002 Adatkonvertálás\obj\Debug\net8.0\002 Adatkonvertálás.AssemblyInfo.cs
+D:\doc\learn\C#\Hello Világ Hello C\002 Adatkonvertálás\obj\Debug\net8.0\002 Adatkonvertálás.csproj.CoreCompileInputs.cache
+D:\doc\learn\C#\Hello Világ Hello C\002 Adatkonvertálás\obj\Debug\net8.0\002 Adatkonvertálás.dll
+D:\doc\learn\C#\Hello Világ Hello C\002 Adatkonvertálás\obj\Debug\net8.0\refint\002 Adatkonvertálás.dll
+D:\doc\learn\C#\Hello Világ Hello C\002 Adatkonvertálás\obj\Debug\net8.0\002 Adatkonvertálás.pdb
+D:\doc\learn\C#\Hello Világ Hello C\002 Adatkonvertálás\obj\Debug\net8.0\002 Adatkonvertálás.genruntimeconfig.cache
+D:\doc\learn\C#\Hello Világ Hello C\002 Adatkonvertálás\obj\Debug\net8.0\ref\002 Adatkonvertálás.dll

@@ -1,0 +1,14 @@
+D:\doc\learn\C#\Hello Világ Hello C\009 Lebegopontos osszehasonlitas\bin\Debug\net8.0\009 Lebegopontos osszehasonlitas.exe
+D:\doc\learn\C#\Hello Világ Hello C\009 Lebegopontos osszehasonlitas\bin\Debug\net8.0\009 Lebegopontos osszehasonlitas.deps.json
+D:\doc\learn\C#\Hello Világ Hello C\009 Lebegopontos osszehasonlitas\bin\Debug\net8.0\009 Lebegopontos osszehasonlitas.runtimeconfig.json
+D:\doc\learn\C#\Hello Világ Hello C\009 Lebegopontos osszehasonlitas\bin\Debug\net8.0\009 Lebegopontos osszehasonlitas.dll
+D:\doc\learn\C#\Hello Világ Hello C\009 Lebegopontos osszehasonlitas\bin\Debug\net8.0\009 Lebegopontos osszehasonlitas.pdb
+D:\doc\learn\C#\Hello Világ Hello C\009 Lebegopontos osszehasonlitas\obj\Debug\net8.0\009 Lebegopontos osszehasonlitas.GeneratedMSBuildEditorConfig.editorconfig
+D:\doc\learn\C#\Hello Világ Hello C\009 Lebegopontos osszehasonlitas\obj\Debug\net8.0\009 Lebegopontos osszehasonlitas.AssemblyInfoInputs.cache
+D:\doc\learn\C#\Hello Világ Hello C\009 Lebegopontos osszehasonlitas\obj\Debug\net8.0\009 Lebegopontos osszehasonlitas.AssemblyInfo.cs
+D:\doc\learn\C#\Hello Világ Hello C\009 Lebegopontos osszehasonlitas\obj\Debug\net8.0\009 Lebegopontos osszehasonlitas.csproj.CoreCompileInputs.cache
+D:\doc\learn\C#\Hello Világ Hello C\009 Lebegopontos osszehasonlitas\obj\Debug\net8.0\009 Lebegopontos osszehasonlitas.dll
+D:\doc\learn\C#\Hello Világ Hello C\009 Lebegopontos osszehasonlitas\obj\Debug\net8.0\refint\009 Lebegopontos osszehasonlitas.dll
+D:\doc\learn\C#\Hello Világ Hello C\009 Lebegopontos osszehasonlitas\obj\Debug\net8.0\009 Lebegopontos osszehasonlitas.pdb
+D:\doc\learn\C#\Hello Világ Hello C\009 Lebegopontos osszehasonlitas\obj\Debug\net8.0\009 Lebegopontos osszehasonlitas.genruntimeconfig.cache
+D:\doc\learn\C#\Hello Világ Hello C\009 Lebegopontos osszehasonlitas\obj\Debug\net8.0\ref\009 Lebegopontos osszehasonlitas.dll

@@ -1,0 +1,14 @@
+D:\doc\learn\C#\Hello Világ Hello C\010 if else\bin\Debug\net8.0\010 if else.exe
+D:\doc\learn\C#\Hello Világ Hello C\010 if else\bin\Debug\net8.0\010 if else.deps.json
+D:\doc\learn\C#\Hello Világ Hello C\010 if else\bin\Debug\net8.0\010 if else.runtimeconfig.json
+D:\doc\learn\C#\Hello Világ Hello C\010 if else\bin\Debug\net8.0\010 if else.dll
+D:\doc\learn\C#\Hello Világ Hello C\010 if else\bin\Debug\net8.0\010 if else.pdb
+D:\doc\learn\C#\Hello Világ Hello C\010 if else\obj\Debug\net8.0\010 if else.GeneratedMSBuildEditorConfig.editorconfig
+D:\doc\learn\C#\Hello Világ Hello C\010 if else\obj\Debug\net8.0\010 if else.AssemblyInfoInputs.cache
+D:\doc\learn\C#\Hello Világ Hello C\010 if else\obj\Debug\net8.0\010 if else.AssemblyInfo.cs
+D:\doc\learn\C#\Hello Világ Hello C\010 if else\obj\Debug\net8.0\010 if else.csproj.CoreCompileInputs.cache
+D:\doc\learn\C#\Hello Világ Hello C\010 if else\obj\Debug\net8.0\010 if else.dll
+D:\doc\learn\C#\Hello Világ Hello C\010 if else\obj\Debug\net8.0\refint\010 if else.dll
+D:\doc\learn\C#\Hello Világ Hello C\010 if else\obj\Debug\net8.0\010 if else.pdb
+D:\doc\learn\C#\Hello Világ Hello C\010 if else\obj\Debug\net8.0\010 if else.genruntimeconfig.cache
+D:\doc\learn\C#\Hello Világ Hello C\010 if else\obj\Debug\net8.0\ref\010 if else.dll

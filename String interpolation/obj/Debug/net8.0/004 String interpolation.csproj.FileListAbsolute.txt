@@ -1,0 +1,14 @@
+D:\doc\learn\C#\Hello Világ Hello C\String interpolation\bin\Debug\net8.0\004 String interpolation.exe
+D:\doc\learn\C#\Hello Világ Hello C\String interpolation\bin\Debug\net8.0\004 String interpolation.deps.json
+D:\doc\learn\C#\Hello Világ Hello C\String interpolation\bin\Debug\net8.0\004 String interpolation.runtimeconfig.json
+D:\doc\learn\C#\Hello Világ Hello C\String interpolation\bin\Debug\net8.0\004 String interpolation.dll
+D:\doc\learn\C#\Hello Világ Hello C\String interpolation\bin\Debug\net8.0\004 String interpolation.pdb
+D:\doc\learn\C#\Hello Világ Hello C\String interpolation\obj\Debug\net8.0\004 String interpolation.GeneratedMSBuildEditorConfig.editorconfig
+D:\doc\learn\C#\Hello Világ Hello C\String interpolation\obj\Debug\net8.0\004 String interpolation.AssemblyInfoInputs.cache
+D:\doc\learn\C#\Hello Világ Hello C\String interpolation\obj\Debug\net8.0\004 String interpolation.AssemblyInfo.cs
+D:\doc\learn\C#\Hello Világ Hello C\String interpolation\obj\Debug\net8.0\004 String interpolation.csproj.CoreCompileInputs.cache
+D:\doc\learn\C#\Hello Világ Hello C\String interpolation\obj\Debug\net8.0\004 String interpolation.dll
+D:\doc\learn\C#\Hello Világ Hello C\String interpolation\obj\Debug\net8.0\refint\004 String interpolation.dll
+D:\doc\learn\C#\Hello Világ Hello C\String interpolation\obj\Debug\net8.0\004 String interpolation.pdb
+D:\doc\learn\C#\Hello Világ Hello C\String interpolation\obj\Debug\net8.0\004 String interpolation.genruntimeconfig.cache
+D:\doc\learn\C#\Hello Világ Hello C\String interpolation\obj\Debug\net8.0\ref\004 String interpolation.dll
