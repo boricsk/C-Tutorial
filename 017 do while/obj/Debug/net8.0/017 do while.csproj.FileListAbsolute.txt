@@ -1,0 +1,15 @@
+D:\doc\learn\C#\Hello Világ Hello C\017 do while\bin\Debug\net8.0\017 do while.exe
+D:\doc\learn\C#\Hello Világ Hello C\017 do while\bin\Debug\net8.0\017 do while.deps.json
+D:\doc\learn\C#\Hello Világ Hello C\017 do while\bin\Debug\net8.0\017 do while.runtimeconfig.json
+D:\doc\learn\C#\Hello Világ Hello C\017 do while\bin\Debug\net8.0\017 do while.dll
+D:\doc\learn\C#\Hello Világ Hello C\017 do while\bin\Debug\net8.0\017 do while.pdb
+D:\doc\learn\C#\Hello Világ Hello C\017 do while\obj\Debug\net8.0\017 do while.GeneratedMSBuildEditorConfig.editorconfig
+D:\doc\learn\C#\Hello Világ Hello C\017 do while\obj\Debug\net8.0\017 do while.AssemblyInfoInputs.cache
+D:\doc\learn\C#\Hello Világ Hello C\017 do while\obj\Debug\net8.0\017 do while.AssemblyInfo.cs
+D:\doc\learn\C#\Hello Világ Hello C\017 do while\obj\Debug\net8.0\017 do while.csproj.CoreCompileInputs.cache
+D:\doc\learn\C#\Hello Világ Hello C\017 do while\obj\Debug\net8.0\017 do while.sourcelink.json
+D:\doc\learn\C#\Hello Világ Hello C\017 do while\obj\Debug\net8.0\017 do while.dll
+D:\doc\learn\C#\Hello Világ Hello C\017 do while\obj\Debug\net8.0\refint\017 do while.dll
+D:\doc\learn\C#\Hello Világ Hello C\017 do while\obj\Debug\net8.0\017 do while.pdb
+D:\doc\learn\C#\Hello Világ Hello C\017 do while\obj\Debug\net8.0\017 do while.genruntimeconfig.cache
+D:\doc\learn\C#\Hello Világ Hello C\017 do while\obj\Debug\net8.0\ref\017 do while.dll

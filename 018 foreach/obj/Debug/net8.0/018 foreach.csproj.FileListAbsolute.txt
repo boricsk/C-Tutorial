@@ -1,0 +1,15 @@
+D:\doc\learn\C#\Hello Világ Hello C\018 foreach\bin\Debug\net8.0\018 foreach.exe
+D:\doc\learn\C#\Hello Világ Hello C\018 foreach\bin\Debug\net8.0\018 foreach.deps.json
+D:\doc\learn\C#\Hello Világ Hello C\018 foreach\bin\Debug\net8.0\018 foreach.runtimeconfig.json
+D:\doc\learn\C#\Hello Világ Hello C\018 foreach\bin\Debug\net8.0\018 foreach.dll
+D:\doc\learn\C#\Hello Világ Hello C\018 foreach\bin\Debug\net8.0\018 foreach.pdb
+D:\doc\learn\C#\Hello Világ Hello C\018 foreach\obj\Debug\net8.0\018 foreach.GeneratedMSBuildEditorConfig.editorconfig
+D:\doc\learn\C#\Hello Világ Hello C\018 foreach\obj\Debug\net8.0\018 foreach.AssemblyInfoInputs.cache
+D:\doc\learn\C#\Hello Világ Hello C\018 foreach\obj\Debug\net8.0\018 foreach.AssemblyInfo.cs
+D:\doc\learn\C#\Hello Világ Hello C\018 foreach\obj\Debug\net8.0\018 foreach.csproj.CoreCompileInputs.cache
+D:\doc\learn\C#\Hello Világ Hello C\018 foreach\obj\Debug\net8.0\018 foreach.sourcelink.json
+D:\doc\learn\C#\Hello Világ Hello C\018 foreach\obj\Debug\net8.0\018 foreach.dll
+D:\doc\learn\C#\Hello Világ Hello C\018 foreach\obj\Debug\net8.0\refint\018 foreach.dll
+D:\doc\learn\C#\Hello Világ Hello C\018 foreach\obj\Debug\net8.0\018 foreach.pdb
+D:\doc\learn\C#\Hello Világ Hello C\018 foreach\obj\Debug\net8.0\018 foreach.genruntimeconfig.cache
+D:\doc\learn\C#\Hello Világ Hello C\018 foreach\obj\Debug\net8.0\ref\018 foreach.dll

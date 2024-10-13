@@ -1,0 +1,15 @@
+D:\doc\learn\C#\Hello Világ Hello C\016 while ciklus\bin\Debug\net8.0\016 while ciklus.exe
+D:\doc\learn\C#\Hello Világ Hello C\016 while ciklus\bin\Debug\net8.0\016 while ciklus.deps.json
+D:\doc\learn\C#\Hello Világ Hello C\016 while ciklus\bin\Debug\net8.0\016 while ciklus.runtimeconfig.json
+D:\doc\learn\C#\Hello Világ Hello C\016 while ciklus\bin\Debug\net8.0\016 while ciklus.dll
+D:\doc\learn\C#\Hello Világ Hello C\016 while ciklus\bin\Debug\net8.0\016 while ciklus.pdb
+D:\doc\learn\C#\Hello Világ Hello C\016 while ciklus\obj\Debug\net8.0\016 while ciklus.GeneratedMSBuildEditorConfig.editorconfig
+D:\doc\learn\C#\Hello Világ Hello C\016 while ciklus\obj\Debug\net8.0\016 while ciklus.AssemblyInfoInputs.cache
+D:\doc\learn\C#\Hello Világ Hello C\016 while ciklus\obj\Debug\net8.0\016 while ciklus.AssemblyInfo.cs
+D:\doc\learn\C#\Hello Világ Hello C\016 while ciklus\obj\Debug\net8.0\016 while ciklus.csproj.CoreCompileInputs.cache
+D:\doc\learn\C#\Hello Világ Hello C\016 while ciklus\obj\Debug\net8.0\016 while ciklus.sourcelink.json
+D:\doc\learn\C#\Hello Világ Hello C\016 while ciklus\obj\Debug\net8.0\016 while ciklus.dll
+D:\doc\learn\C#\Hello Világ Hello C\016 while ciklus\obj\Debug\net8.0\refint\016 while ciklus.dll
+D:\doc\learn\C#\Hello Világ Hello C\016 while ciklus\obj\Debug\net8.0\016 while ciklus.pdb
+D:\doc\learn\C#\Hello Világ Hello C\016 while ciklus\obj\Debug\net8.0\016 while ciklus.genruntimeconfig.cache
+D:\doc\learn\C#\Hello Világ Hello C\016 while ciklus\obj\Debug\net8.0\ref\016 while ciklus.dll
