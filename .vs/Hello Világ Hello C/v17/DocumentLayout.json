@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Borics K\\C# Tanf\\C-Tutorial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4ABA5DE8-C50C-4FE0-B09A-051A6E49C768}|020 OOP create class\\020 OOP create class.csproj|c:\\borics k\\c# tanf\\c-tutorial\\020 oop create class\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4ABA5DE8-C50C-4FE0-B09A-051A6E49C768}|020 OOP create class\\020 OOP create class.csproj|solutionrelative:020 oop create class\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4ABA5DE8-C50C-4FE0-B09A-051A6E49C768}|020 OOP create class\\020 OOP create class.csproj|c:\\borics k\\c# tanf\\c-tutorial\\020 oop create class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4ABA5DE8-C50C-4FE0-B09A-051A6E49C768}|020 OOP create class\\020 OOP create class.csproj|solutionrelative:020 oop create class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABA5DE8-C50C-4FE0-B09A-051A6E49C768}|020 OOP create class\\020 OOP create class.csproj|c:\\borics k\\c# tanf\\c-tutorial\\020 oop create class\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ABA5DE8-C50C-4FE0-B09A-051A6E49C768}|020 OOP create class\\020 OOP create class.csproj|solutionrelative:020 oop create class\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{434ACD1A-0221-4E36-9385-882C97249BA5}|019 break continue\\019 break continue.csproj|c:\\borics k\\c# tanf\\c-tutorial\\019 break continue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Test.cs",
               "DocumentMoniker": "C:\\Borics K\\C# Tanf\\C-Tutorial\\020 OOP create class\\Test.cs",
               "RelativeDocumentMoniker": "020 OOP create class\\Test.cs",
@@ -91,13 +91,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Borics K\\C# Tanf\\C-Tutorial\\020 OOP create class\\Program.cs",
               "RelativeDocumentMoniker": "020 OOP create class\\Program.cs",
               "ToolTip": "C:\\Borics K\\C# Tanf\\C-Tutorial\\020 OOP create class\\Program.cs",
               "RelativeToolTip": "020 OOP create class\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T09:22:13.255Z",
               "EditorCaption": ""
