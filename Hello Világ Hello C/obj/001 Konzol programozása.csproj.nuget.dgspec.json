@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\doc\\learn\\Machine learning path\\06-C#\\00-Hello Világ Hello C\\Hello Világ Hello C\\001 Konzol programozása.csproj": {}
+    "C:\\Borics K\\C# Tanf\\C-Tutorial\\Hello Világ Hello C\\001 Konzol programozása.csproj": {}
   },
   "projects": {
-    "D:\\doc\\learn\\Machine learning path\\06-C#\\00-Hello Világ Hello C\\Hello Világ Hello C\\001 Konzol programozása.csproj": {
+    "C:\\Borics K\\C# Tanf\\C-Tutorial\\Hello Világ Hello C\\001 Konzol programozása.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\doc\\learn\\Machine learning path\\06-C#\\00-Hello Világ Hello C\\Hello Világ Hello C\\001 Konzol programozása.csproj",
+        "projectUniqueName": "C:\\Borics K\\C# Tanf\\C-Tutorial\\Hello Világ Hello C\\001 Konzol programozása.csproj",
         "projectName": "001 Konzol programozása",
-        "projectPath": "D:\\doc\\learn\\Machine learning path\\06-C#\\00-Hello Világ Hello C\\Hello Világ Hello C\\001 Konzol programozása.csproj",
-        "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-        "outputPath": "D:\\doc\\learn\\Machine learning path\\06-C#\\00-Hello Világ Hello C\\Hello Világ Hello C\\obj\\",
+        "projectPath": "C:\\Borics K\\C# Tanf\\C-Tutorial\\Hello Világ Hello C\\001 Konzol programozása.csproj",
+        "packagesPath": "C:\\Users\\boricsk\\.nuget\\packages\\",
+        "outputPath": "C:\\Borics K\\C# Tanf\\C-Tutorial\\Hello Világ Hello C\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\boricsk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

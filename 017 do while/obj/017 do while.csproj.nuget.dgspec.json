@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\doc\\learn\\Machine learning path\\06-C#\\00-Hello Világ Hello C\\017 do while\\017 do while.csproj": {}
+    "C:\\Borics K\\C# Tanf\\C-Tutorial\\017 do while\\017 do while.csproj": {}
   },
   "projects": {
-    "D:\\doc\\learn\\Machine learning path\\06-C#\\00-Hello Világ Hello C\\017 do while\\017 do while.csproj": {
+    "C:\\Borics K\\C# Tanf\\C-Tutorial\\017 do while\\017 do while.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\doc\\learn\\Machine learning path\\06-C#\\00-Hello Világ Hello C\\017 do while\\017 do while.csproj",
+        "projectUniqueName": "C:\\Borics K\\C# Tanf\\C-Tutorial\\017 do while\\017 do while.csproj",
         "projectName": "017 do while",
-        "projectPath": "D:\\doc\\learn\\Machine learning path\\06-C#\\00-Hello Világ Hello C\\017 do while\\017 do while.csproj",
-        "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-        "outputPath": "D:\\doc\\learn\\Machine learning path\\06-C#\\00-Hello Világ Hello C\\017 do while\\obj\\",
+        "projectPath": "C:\\Borics K\\C# Tanf\\C-Tutorial\\017 do while\\017 do while.csproj",
+        "packagesPath": "C:\\Users\\boricsk\\.nuget\\packages\\",
+        "outputPath": "C:\\Borics K\\C# Tanf\\C-Tutorial\\017 do while\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\boricsk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

@@ -1,49 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\doc\\learn\\C#\\Hello Vil\u00E1g Hello C\\",
+  "WorkspaceRootPath": "C:\\Borics K\\C# Tanf\\C-Tutorial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD4D43FE-1C51-43D2-801D-72DBC21DD10D}|018 foreach\\018 foreach.csproj|d:\\doc\\learn\\c#\\hello vil\u00E1g hello c\\018 foreach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4ABA5DE8-C50C-4FE0-B09A-051A6E49C768}|020 OOP create class\\020 OOP create class.csproj|c:\\borics k\\c# tanf\\c-tutorial\\020 oop create class\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ABA5DE8-C50C-4FE0-B09A-051A6E49C768}|020 OOP create class\\020 OOP create class.csproj|solutionrelative:020 oop create class\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ABA5DE8-C50C-4FE0-B09A-051A6E49C768}|020 OOP create class\\020 OOP create class.csproj|c:\\borics k\\c# tanf\\c-tutorial\\020 oop create class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ABA5DE8-C50C-4FE0-B09A-051A6E49C768}|020 OOP create class\\020 OOP create class.csproj|solutionrelative:020 oop create class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434ACD1A-0221-4E36-9385-882C97249BA5}|019 break continue\\019 break continue.csproj|c:\\borics k\\c# tanf\\c-tutorial\\019 break continue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434ACD1A-0221-4E36-9385-882C97249BA5}|019 break continue\\019 break continue.csproj|solutionrelative:019 break continue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4D43FE-1C51-43D2-801D-72DBC21DD10D}|018 foreach\\018 foreach.csproj|c:\\borics k\\c# tanf\\c-tutorial\\018 foreach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD4D43FE-1C51-43D2-801D-72DBC21DD10D}|018 foreach\\018 foreach.csproj|solutionrelative:018 foreach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{628329A3-E29B-4414-B429-7AD391F41B86}|017 do while\\017 do while.csproj|d:\\doc\\learn\\c#\\hello vil\u00E1g hello c\\017 do while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{628329A3-E29B-4414-B429-7AD391F41B86}|017 do while\\017 do while.csproj|c:\\borics k\\c# tanf\\c-tutorial\\017 do while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{628329A3-E29B-4414-B429-7AD391F41B86}|017 do while\\017 do while.csproj|solutionrelative:017 do while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5652A586-552D-4AA9-98D4-033CBD252BF6}|016 while ciklus\\016 while ciklus.csproj|d:\\doc\\learn\\c#\\hello vil\u00E1g hello c\\016 while ciklus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5652A586-552D-4AA9-98D4-033CBD252BF6}|016 while ciklus\\016 while ciklus.csproj|c:\\borics k\\c# tanf\\c-tutorial\\016 while ciklus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5652A586-552D-4AA9-98D4-033CBD252BF6}|016 while ciklus\\016 while ciklus.csproj|solutionrelative:016 while ciklus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4683E26-4929-4C3A-81A0-200C8471074A}|015 for ciklus\\015 for ciklus.csproj|d:\\doc\\learn\\c#\\hello vil\u00E1g hello c\\015 for ciklus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E4683E26-4929-4C3A-81A0-200C8471074A}|015 for ciklus\\015 for ciklus.csproj|c:\\borics k\\c# tanf\\c-tutorial\\015 for ciklus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4683E26-4929-4C3A-81A0-200C8471074A}|015 for ciklus\\015 for ciklus.csproj|solutionrelative:015 for ciklus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADD285EC-E48F-4E83-B59F-8617EC6271E1}|014 goto\\014 goto.csproj|d:\\doc\\learn\\c#\\hello vil\u00E1g hello c\\014 goto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ADD285EC-E48F-4E83-B59F-8617EC6271E1}|014 goto\\014 goto.csproj|c:\\borics k\\c# tanf\\c-tutorial\\014 goto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADD285EC-E48F-4E83-B59F-8617EC6271E1}|014 goto\\014 goto.csproj|solutionrelative:014 goto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4676CD44-5DF9-4963-98F2-BBC7429D04BF}|013 checked es unchecked blokkok\\013 checked es unchecked blokkok.csproj|d:\\doc\\learn\\c#\\hello vil\u00E1g hello c\\013 checked es unchecked blokkok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4676CD44-5DF9-4963-98F2-BBC7429D04BF}|013 checked es unchecked blokkok\\013 checked es unchecked blokkok.csproj|c:\\borics k\\c# tanf\\c-tutorial\\013 checked es unchecked blokkok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4676CD44-5DF9-4963-98F2-BBC7429D04BF}|013 checked es unchecked blokkok\\013 checked es unchecked blokkok.csproj|solutionrelative:013 checked es unchecked blokkok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA408C8A-3220-4A1F-AA2E-59AEDA0203EE}|012 try catch\\012 try catch.csproj|d:\\doc\\learn\\c#\\hello vil\u00E1g hello c\\012 try catch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EA408C8A-3220-4A1F-AA2E-59AEDA0203EE}|012 try catch\\012 try catch.csproj|c:\\borics k\\c# tanf\\c-tutorial\\012 try catch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA408C8A-3220-4A1F-AA2E-59AEDA0203EE}|012 try catch\\012 try catch.csproj|solutionrelative:012 try catch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D7B8217-2358-4330-8D9F-1CD970747704}|011 switch case\\011 switch case.csproj|d:\\doc\\learn\\c#\\hello vil\u00E1g hello c\\011 switch case\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6D7B8217-2358-4330-8D9F-1CD970747704}|011 switch case\\011 switch case.csproj|c:\\borics k\\c# tanf\\c-tutorial\\011 switch case\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D7B8217-2358-4330-8D9F-1CD970747704}|011 switch case\\011 switch case.csproj|solutionrelative:011 switch case\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0802893-E57F-485A-895F-EC6F17085DBC}|010 if else\\010 if else.csproj|d:\\doc\\learn\\c#\\hello vil\u00E1g hello c\\010 if else\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B0802893-E57F-485A-895F-EC6F17085DBC}|010 if else\\010 if else.csproj|c:\\borics k\\c# tanf\\c-tutorial\\010 if else\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0802893-E57F-485A-895F-EC6F17085DBC}|010 if else\\010 if else.csproj|solutionrelative:010 if else\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{821A5A67-B303-48DB-B3E4-B4072360EDD2}|009 Lebegopontos osszehasonlitas\\009 Lebegopontos osszehasonlitas.csproj|d:\\doc\\learn\\c#\\hello vil\u00E1g hello c\\009 lebegopontos osszehasonlitas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{821A5A67-B303-48DB-B3E4-B4072360EDD2}|009 Lebegopontos osszehasonlitas\\009 Lebegopontos osszehasonlitas.csproj|c:\\borics k\\c# tanf\\c-tutorial\\009 lebegopontos osszehasonlitas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{821A5A67-B303-48DB-B3E4-B4072360EDD2}|009 Lebegopontos osszehasonlitas\\009 Lebegopontos osszehasonlitas.csproj|solutionrelative:009 lebegopontos osszehasonlitas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{750AE74B-2304-478E-A060-4140EEF5EDD6}|008 Aritmetika\\008 Aritmetika.csproj|d:\\doc\\learn\\c#\\hello vil\u00E1g hello c\\008 aritmetika\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{750AE74B-2304-478E-A060-4140EEF5EDD6}|008 Aritmetika\\008 Aritmetika.csproj|c:\\borics k\\c# tanf\\c-tutorial\\008 aritmetika\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{750AE74B-2304-478E-A060-4140EEF5EDD6}|008 Aritmetika\\008 Aritmetika.csproj|solutionrelative:008 aritmetika\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -54,15 +66,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Borics K\\C# Tanf\\C-Tutorial\\020 OOP create class\\Test.cs",
+              "RelativeDocumentMoniker": "020 OOP create class\\Test.cs",
+              "ToolTip": "C:\\Borics K\\C# Tanf\\C-Tutorial\\020 OOP create class\\Test.cs",
+              "RelativeToolTip": "020 OOP create class\\Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T09:23:13.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\doc\\learn\\C#\\Hello Vil\u00E1g Hello C\\018 foreach\\Program.cs",
+              "DocumentMoniker": "C:\\Borics K\\C# Tanf\\C-Tutorial\\020 OOP create class\\Program.cs",
+              "RelativeDocumentMoniker": "020 OOP create class\\Program.cs",
+              "ToolTip": "C:\\Borics K\\C# Tanf\\C-Tutorial\\020 OOP create class\\Program.cs",
+              "RelativeToolTip": "020 OOP create class\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T09:22:13.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Borics K\\C# Tanf\\C-Tutorial\\019 break continue\\Program.cs",
+              "RelativeDocumentMoniker": "019 break continue\\Program.cs",
+              "ToolTip": "C:\\Borics K\\C# Tanf\\C-Tutorial\\019 break continue\\Program.cs",
+              "RelativeToolTip": "019 break continue\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:18:17.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Borics K\\C# Tanf\\C-Tutorial\\018 foreach\\Program.cs",
               "RelativeDocumentMoniker": "018 foreach\\Program.cs",
-              "ToolTip": "D:\\doc\\learn\\C#\\Hello Vil\u00E1g Hello C\\018 foreach\\Program.cs",
+              "ToolTip": "C:\\Borics K\\C# Tanf\\C-Tutorial\\018 foreach\\Program.cs",
               "RelativeToolTip": "018 foreach\\Program.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAADEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -71,37 +130,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\doc\\learn\\C#\\Hello Vil\u00E1g Hello C\\017 do while\\Program.cs",
+              "DocumentMoniker": "C:\\Borics K\\C# Tanf\\C-Tutorial\\017 do while\\Program.cs",
               "RelativeDocumentMoniker": "017 do while\\Program.cs",
-              "ToolTip": "D:\\doc\\learn\\C#\\Hello Vil\u00E1g Hello C\\017 do while\\Program.cs",
+              "ToolTip": "C:\\Borics K\\C# Tanf\\C-Tutorial\\017 do while\\Program.cs",
               "RelativeToolTip": "017 do while\\Program.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAAAwBsAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T14:36:21.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T14:36:21.956Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\doc\\learn\\C#\\Hello Vil\u00E1g Hello C\\016 while ciklus\\Program.cs",
+              "DocumentMoniker": "C:\\Borics K\\C# Tanf\\C-Tutorial\\016 while ciklus\\Program.cs",
               "RelativeDocumentMoniker": "016 while ciklus\\Program.cs",
-              "ToolTip": "D:\\doc\\learn\\C#\\Hello Vil\u00E1g Hello C\\016 while ciklus\\Program.cs",
+              "ToolTip": "C:\\Borics K\\C# Tanf\\C-Tutorial\\016 while ciklus\\Program.cs",
               "RelativeToolTip": "016 while ciklus\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T13:42:23.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-01T13:42:23.408Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\doc\\learn\\C#\\Hello Vil\u00E1g Hello C\\015 for ciklus\\Program.cs",
+              "DocumentMoniker": "C:\\Borics K\\C# Tanf\\C-Tutorial\\015 for ciklus\\Program.cs",
               "RelativeDocumentMoniker": "015 for ciklus\\Program.cs",
-              "ToolTip": "D:\\doc\\learn\\C#\\Hello Vil\u00E1g Hello C\\015 for ciklus\\Program.cs",
+              "ToolTip": "C:\\Borics K\\C# Tanf\\C-Tutorial\\015 for ciklus\\Program.cs",
               "RelativeToolTip": "015 for ciklus\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -109,11 +166,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\doc\\learn\\C#\\Hello Vil\u00E1g Hello C\\014 goto\\Program.cs",
+              "DocumentMoniker": "C:\\Borics K\\C# Tanf\\C-Tutorial\\014 goto\\Program.cs",
               "RelativeDocumentMoniker": "014 goto\\Program.cs",
-              "ToolTip": "D:\\doc\\learn\\C#\\Hello Vil\u00E1g Hello C\\014 goto\\Program.cs",
+              "ToolTip": "C:\\Borics K\\C# Tanf\\C-Tutorial\\014 goto\\Program.cs",
               "RelativeToolTip": "014 goto\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -121,11 +178,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\doc\\learn\\C#\\Hello Vil\u00E1g Hello C\\013 checked es unchecked blokkok\\Program.cs",
+              "DocumentMoniker": "C:\\Borics K\\C# Tanf\\C-Tutorial\\013 checked es unchecked blokkok\\Program.cs",
               "RelativeDocumentMoniker": "013 checked es unchecked blokkok\\Program.cs",
-              "ToolTip": "D:\\doc\\learn\\C#\\Hello Vil\u00E1g Hello C\\013 checked es unchecked blokkok\\Program.cs",
+              "ToolTip": "C:\\Borics K\\C# Tanf\\C-Tutorial\\013 checked es unchecked blokkok\\Program.cs",
               "RelativeToolTip": "013 checked es unchecked blokkok\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -133,11 +190,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\doc\\learn\\C#\\Hello Vil\u00E1g Hello C\\012 try catch\\Program.cs",
+              "DocumentMoniker": "C:\\Borics K\\C# Tanf\\C-Tutorial\\012 try catch\\Program.cs",
               "RelativeDocumentMoniker": "012 try catch\\Program.cs",
-              "ToolTip": "D:\\doc\\learn\\C#\\Hello Vil\u00E1g Hello C\\012 try catch\\Program.cs",
+              "ToolTip": "C:\\Borics K\\C# Tanf\\C-Tutorial\\012 try catch\\Program.cs",
               "RelativeToolTip": "012 try catch\\Program.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAAAMUAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -145,11 +202,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\doc\\learn\\C#\\Hello Vil\u00E1g Hello C\\011 switch case\\Program.cs",
+              "DocumentMoniker": "C:\\Borics K\\C# Tanf\\C-Tutorial\\011 switch case\\Program.cs",
               "RelativeDocumentMoniker": "011 switch case\\Program.cs",
-              "ToolTip": "D:\\doc\\learn\\C#\\Hello Vil\u00E1g Hello C\\011 switch case\\Program.cs",
+              "ToolTip": "C:\\Borics K\\C# Tanf\\C-Tutorial\\011 switch case\\Program.cs",
               "RelativeToolTip": "011 switch case\\Program.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAcwF8AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -157,11 +214,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\doc\\learn\\C#\\Hello Vil\u00E1g Hello C\\010 if else\\Program.cs",
+              "DocumentMoniker": "C:\\Borics K\\C# Tanf\\C-Tutorial\\010 if else\\Program.cs",
               "RelativeDocumentMoniker": "010 if else\\Program.cs",
-              "ToolTip": "D:\\doc\\learn\\C#\\Hello Vil\u00E1g Hello C\\010 if else\\Program.cs",
+              "ToolTip": "C:\\Borics K\\C# Tanf\\C-Tutorial\\010 if else\\Program.cs",
               "RelativeToolTip": "010 if else\\Program.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAxwFIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -169,11 +226,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\doc\\learn\\C#\\Hello Vil\u00E1g Hello C\\009 Lebegopontos osszehasonlitas\\Program.cs",
+              "DocumentMoniker": "C:\\Borics K\\C# Tanf\\C-Tutorial\\009 Lebegopontos osszehasonlitas\\Program.cs",
               "RelativeDocumentMoniker": "009 Lebegopontos osszehasonlitas\\Program.cs",
-              "ToolTip": "D:\\doc\\learn\\C#\\Hello Vil\u00E1g Hello C\\009 Lebegopontos osszehasonlitas\\Program.cs",
+              "ToolTip": "C:\\Borics K\\C# Tanf\\C-Tutorial\\009 Lebegopontos osszehasonlitas\\Program.cs",
               "RelativeToolTip": "009 Lebegopontos osszehasonlitas\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -181,11 +238,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\doc\\learn\\C#\\Hello Vil\u00E1g Hello C\\008 Aritmetika\\Program.cs",
+              "DocumentMoniker": "C:\\Borics K\\C# Tanf\\C-Tutorial\\008 Aritmetika\\Program.cs",
               "RelativeDocumentMoniker": "008 Aritmetika\\Program.cs",
-              "ToolTip": "D:\\doc\\learn\\C#\\Hello Vil\u00E1g Hello C\\008 Aritmetika\\Program.cs",
+              "ToolTip": "C:\\Borics K\\C# Tanf\\C-Tutorial\\008 Aritmetika\\Program.cs",
               "RelativeToolTip": "008 Aritmetika\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\doc\\learn\\Machine learning path\\06-C#\\00-Hello Világ Hello C\\013 checked es unchecked blokkok\\013 checked es unchecked blokkok.csproj": {}
+    "C:\\Borics K\\C# Tanf\\C-Tutorial\\013 checked es unchecked blokkok\\013 checked es unchecked blokkok.csproj": {}
   },
   "projects": {
-    "D:\\doc\\learn\\Machine learning path\\06-C#\\00-Hello Világ Hello C\\013 checked es unchecked blokkok\\013 checked es unchecked blokkok.csproj": {
+    "C:\\Borics K\\C# Tanf\\C-Tutorial\\013 checked es unchecked blokkok\\013 checked es unchecked blokkok.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\doc\\learn\\Machine learning path\\06-C#\\00-Hello Világ Hello C\\013 checked es unchecked blokkok\\013 checked es unchecked blokkok.csproj",
+        "projectUniqueName": "C:\\Borics K\\C# Tanf\\C-Tutorial\\013 checked es unchecked blokkok\\013 checked es unchecked blokkok.csproj",
         "projectName": "013 checked es unchecked blokkok",
-        "projectPath": "D:\\doc\\learn\\Machine learning path\\06-C#\\00-Hello Világ Hello C\\013 checked es unchecked blokkok\\013 checked es unchecked blokkok.csproj",
-        "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-        "outputPath": "D:\\doc\\learn\\Machine learning path\\06-C#\\00-Hello Világ Hello C\\013 checked es unchecked blokkok\\obj\\",
+        "projectPath": "C:\\Borics K\\C# Tanf\\C-Tutorial\\013 checked es unchecked blokkok\\013 checked es unchecked blokkok.csproj",
+        "packagesPath": "C:\\Users\\boricsk\\.nuget\\packages\\",
+        "outputPath": "C:\\Borics K\\C# Tanf\\C-Tutorial\\013 checked es unchecked blokkok\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\boricsk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
